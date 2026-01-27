@@ -1,5 +1,3 @@
-could you share this readme in md
-
 # Automated Financial Transaction Reconciliation  
 **Python • Jupyter Notebooks • Tableau**
 
@@ -179,8 +177,8 @@ Potential next steps include:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/bank-transaction-reconciliation.git
-   cd bank-transaction-reconciliation
+   git clone https://github.com/nabigwaku/Automated-Financial-Transaction-Reconciliation.git
+   cd Automated-Financial-Transaction-Reconciliation
    ```
 
 2. **Install dependencies**
@@ -189,6 +187,6 @@ Potential next steps include:
    ```
 
 3. **Run the notebooks in order:**
-   - `01_eda_understanding_transactions.ipynb`
+   - `transaction_recon_notebook.ipynb`
 
 4. **Load outputs into Tableau** or your preferred BI tool
