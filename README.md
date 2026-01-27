@@ -1,13 +1,15 @@
+could you share this readme in md
+
 # Automated Financial Transaction Reconciliation  
 **Python • Jupyter Notebooks • Tableau**
 
 ## Project Overview
 
-In fintech and financial operations, thousands of transactions flow daily between banks, payment providers, and internal accounting systems. While these systems are supposed to agree, in reality they often don’t due to timing delays, missing references, duplicates, or partial settlements.
+In fintech and financial operations, thousands of transactions flow daily between banks, payment providers, and internal accounting systems. While these systems are supposed to agree, in reality they often don't due to timing delays, missing references, duplicates, or partial settlements.
 
 This project demonstrates an **end-to-end automated reconciliation workflow** that matches bank statement transactions against internal ledger records, highlights discrepancies, and produces **business-ready reports and dashboards** for daily operations.
 
-The goal is not just to match numbers, but to reflect how reconciliation actually works in real fintech environments — balancing automation, analyst judgment, and clear business reporting.
+The goal is not just to match numbers, but to reflect how reconciliation actually works in real fintech environments balancing automation, judgment, and clear business reporting.
 
 
 ## Business Problem
@@ -15,42 +17,49 @@ The goal is not just to match numbers, but to reflect how reconciliation actuall
 Manual reconciliation processes are common, but they come with real challenges:
 
 - They are time-consuming and repetitive  
-- They don’t scale as transaction volumes grow  
+- They don't scale as transaction volumes grow  
 - They make it hard to spot patterns and root causes  
 - They delay financial reporting and increase operational risk  
 
 ### Objective
 
-Build a **repeatable reconciliation process** that:
+Build a **repeatable fine-tuned reconciliation process** that:
 
 - Automates daily transaction matching  
 - Clearly flags and classifies discrepancies  
 - Produces operational KPIs that business teams can easily consume  
 
 
-## Data Sources
+## Data Setup
 
-This project uses two core datasets:
+The data includes:
 
-- **Bank Statement Transactions**  
-  *External source of truth representing what the bank processed*
+### Two Core Files
 
-- **Ledger Transactions**  
-  *Internal system records used for accounting and reporting*
+1. **`bank_statement.csv`** – The bank's view of transactions
+   - 500 transactions with realistic amounts
+   - Bank-formatted references (INV123456, PAY789012)
+   - Dates, amounts, and full transaction details
 
-**Dataset used:**  
-Kaggle – *Bank Reconciliation Statement* dataset
+2. **`ledger_transactions.csv`** – Our internal accounting system's records
 
-The data simulates common real-world reconciliation challenges, including:
-- Timing differences between systems  
-- Amount mismatches and rounding issues  
-- Missing or inconsistent transaction references  
-- Duplicate or partially posted transactions  
+### Reconciliation Challenges
+
+This project explores common causes of transaction discrepancies and then flags transactions based on predefined rules and checks:
+
+ - **Timing differences**
+   - Monitoring for Ledger dates that are off
+   - Weekend processing delays
+- **Amount mismatches** 
+  - Small rounding differences e.g for fees, FX rounding
+- **Formatting variations** 
+   - Different system conventions (e.g INV-123 vs INV123)
+- **Missing transactions** 
+- **Extra ledger entries** 
+  - Accruals, manual adjustments 
 
 
 ## Analytical Approach
-
-The project follows a structured, real-world reconciliation workflow.
 
 ### 1. Exploratory Data Analysis (EDA)
 
@@ -63,7 +72,6 @@ Before attempting any matching, the data is explored to understand:
 
 **Why this matters:**  
 Reconciliation logic built without understanding the data often leads to false matches and noisy exceptions.
-
 
 ### 2. Data Cleaning & Standardization
 
@@ -134,7 +142,6 @@ This project delivers:
 - Faster daily and month-end reconciliation cycles  
 - Better audit readiness and operational transparency  
 
-
 ## Tools & Technologies
 
 - **Python** – pandas, numpy, rapidfuzz  
@@ -142,14 +149,46 @@ This project delivers:
 - **Tableau** – business dashboards and reporting  
 - **Git** – version control and project organization  
 
+
 ## Project Structure
 
 ```text
-bank-transaction-reconciliation/
+financial-transaction-reconciliation/
 ├── data/
 │   ├── raw/
+│   │   ├── bank_statement.csv
+│   │   └── ledger_transactions.csv
 │   └── processed/
 ├── notebooks/
 ├── outputs/
 ├── tableau/
 └── README.md
+```
+
+## Future Enhancements
+
+Potential next steps include:
+
+- SQL-based reconciliation for large-scale datasets
+- Machine learning–based match confidence scoring
+- Scheduling for daily automated reconciliation runs
+- Integration with bank or payment provider APIs
+
+
+## How to Run This Project
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/bank-transaction-reconciliation.git
+   cd bank-transaction-reconciliation
+   ```
+
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the notebooks in order:**
+   - `01_eda_understanding_transactions.ipynb`
+
+4. **Load outputs into Tableau** or your preferred BI tool
