@@ -142,7 +142,7 @@ This project delivers:
 - **Tableau** – business dashboards and reporting  
 - **Git** – version control and project organization  
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 bank-transaction-reconciliation/
