@@ -186,7 +186,7 @@ Potential next steps include:
    pip install -r requirements.txt
    ```
 
-3. **Run the notebooks in order:**
+3. **Run the notebook:**
    - `transaction_recon_notebook.ipynb`
 
 4. **Load outputs into Tableau** or your preferred BI tool
