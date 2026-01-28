@@ -1,0 +1,6 @@
+KPI,Value,Target
+Bank Reconciliation Rate,86.4%,>95%
+Ledger Reconciliation Rate,85.8%,>95%
+Total Exceptions,139,<5%
+Exact Matches,258,As high as possible
+Tolerance Matches,179,As needed

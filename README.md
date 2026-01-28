@@ -187,6 +187,6 @@ Potential next steps include:
    ```
 
 3. **Run the notebook:**
-   - `transaction_recon_notebook.ipynb`
+   - `financial_transaction_reconciliation.ipynb`
 
 4. **Load outputs into Tableau** or your preferred BI tool
