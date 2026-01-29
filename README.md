@@ -1,4 +1,4 @@
-# Automated Financial Transaction Reconciliation  
+# Financial Transaction Reconciliation  
 **Python • Jupyter Notebooks • Tableau**
 
 ## Project Overview
