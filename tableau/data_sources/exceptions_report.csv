@@ -1,0 +1,140 @@
+transaction_id,date,amount,reference,issue,source,days_unmatched,priority,aging_bucket
+BANK00015,2024-01-02,484.09,TRF931083,No match found in ledger,Bank,758,High,30+ days
+BANK00055,2024-01-02,50.0,CHK617275,No match found in ledger,Bank,758,High,30+ days
+BANK00150,2024-01-04,500.0,REF414360,No match found in ledger,Bank,756,High,30+ days
+BANK00258,2024-01-07,500.0,SAL621387,No match found in ledger,Bank,753,High,30+ days
+BANK00302,2024-01-07,843.35,CHK990439,No match found in ledger,Bank,753,High,30+ days
+BANK00060,2024-01-08,1172.79,INV748092,No match found in ledger,Bank,752,High,30+ days
+BANK00380,2024-01-08,527.86,SAL795586,No match found in ledger,Bank,752,High,30+ days
+BANK00103,2024-01-09,250.0,INV302371,No match found in ledger,Bank,751,High,30+ days
+BANK00467,2024-01-10,1905.77,TRF852139,No match found in ledger,Bank,750,High,30+ days
+BANK00051,2024-01-14,100.0,PAY357757,No match found in ledger,Bank,746,High,30+ days
+BANK00152,2024-01-15,50.0,SAL684462,No match found in ledger,Bank,745,High,30+ days
+BANK00033,2024-01-15,1678.58,TRF271574,No match found in ledger,Bank,745,High,30+ days
+BANK00459,2024-01-16,502.6,CHK371802,No match found in ledger,Bank,744,High,30+ days
+BANK00330,2024-01-17,1387.63,INV641886,No match found in ledger,Bank,743,High,30+ days
+BANK00286,2024-01-18,1601.71,SAL406165,No match found in ledger,Bank,742,High,30+ days
+BANK00236,2024-01-20,700.44,SAL120885,No match found in ledger,Bank,740,High,30+ days
+BANK00022,2024-01-21,1151.14,TRF095870,No match found in ledger,Bank,739,High,30+ days
+BANK00444,2024-01-22,1929.4,INV948199,No match found in ledger,Bank,738,High,30+ days
+BANK00429,2024-01-23,1501.81,PAY819513,No match found in ledger,Bank,737,High,30+ days
+BANK00190,2024-01-24,760.12,SAL635124,No match found in ledger,Bank,736,High,30+ days
+BANK00161,2024-01-28,500.0,TRF154505,No match found in ledger,Bank,732,High,30+ days
+BANK00500,2024-01-29,172.24,REF644470,No match found in ledger,Bank,731,High,30+ days
+BANK00344,2024-02-02,967.31,REF625999,No match found in ledger,Bank,727,High,30+ days
+BANK00277,2024-02-02,1822.14,TRF064476,No match found in ledger,Bank,727,High,30+ days
+BANK00294,2024-02-02,1631.96,PAY862401,No match found in ledger,Bank,727,High,30+ days
+BANK00122,2024-02-03,1073.5,CHK325187,No match found in ledger,Bank,726,High,30+ days
+BANK00131,2024-02-04,250.0,SAL876481,No match found in ledger,Bank,725,High,30+ days
+BANK00200,2024-02-08,1150.57,PAY344640,No match found in ledger,Bank,721,High,30+ days
+BANK00293,2024-02-10,1646.94,TRF571302,No match found in ledger,Bank,719,High,30+ days
+BANK00364,2024-02-12,561.76,REF127461,No match found in ledger,Bank,717,High,30+ days
+BANK00189,2024-02-13,1635.03,INV763872,No match found in ledger,Bank,716,High,30+ days
+BANK00331,2024-02-13,506.84,CHK674862,No match found in ledger,Bank,716,High,30+ days
+BANK00059,2024-02-13,914.54,PAY899268,No match found in ledger,Bank,716,High,30+ days
+BANK00170,2024-02-13,1069.85,SAL136877,No match found in ledger,Bank,716,High,30+ days
+BANK00164,2024-02-14,418.1,CHK698879,No match found in ledger,Bank,715,High,30+ days
+BANK00306,2024-02-17,500.0,PAY834127,No match found in ledger,Bank,712,High,30+ days
+BANK00436,2024-02-17,213.37,TRF618817,No match found in ledger,Bank,712,High,30+ days
+BANK00271,2024-02-17,290.75,TRF748740,No match found in ledger,Bank,712,High,30+ days
+BANK00324,2024-02-17,50.0,INV406721,No match found in ledger,Bank,712,High,30+ days
+BANK00188,2024-02-20,1755.63,PAY135668,No match found in ledger,Bank,709,High,30+ days
+BANK00449,2024-02-20,743.37,CHK779586,No match found in ledger,Bank,709,High,30+ days
+BANK00198,2024-02-21,341.79,REF774589,No match found in ledger,Bank,708,High,30+ days
+BANK00314,2024-02-23,1000.0,REF069566,No match found in ledger,Bank,706,High,30+ days
+BANK00072,2024-02-23,1646.85,CHK703987,No match found in ledger,Bank,706,High,30+ days
+BANK00414,2024-02-24,1267.31,REF299148,No match found in ledger,Bank,705,High,30+ days
+BANK00349,2024-02-27,1045.13,PAY442707,No match found in ledger,Bank,702,High,30+ days
+BANK00192,2024-02-28,1010.41,CHK341516,No match found in ledger,Bank,701,High,30+ days
+BANK00021,2024-02-29,1900.62,REF636689,No match found in ledger,Bank,700,High,30+ days
+BANK00034,2024-03-02,452.93,SAL935024,No match found in ledger,Bank,698,High,30+ days
+BANK00100,2024-03-05,1000.0,TRF454029,No match found in ledger,Bank,695,High,30+ days
+BANK00386,2024-03-06,788.43,PAY398172,No match found in ledger,Bank,694,High,30+ days
+BANK00457,2024-03-09,100.0,INV578050,No match found in ledger,Bank,691,High,30+ days
+BANK00244,2024-03-11,364.29,REF734894,No match found in ledger,Bank,689,High,30+ days
+BANK00083,2024-03-12,1000.0,CHK772643,No match found in ledger,Bank,688,High,30+ days
+BANK00497,2024-03-14,1000.0,SAL798996,No match found in ledger,Bank,686,High,30+ days
+BANK00307,2024-03-16,50.0,SAL208432,No match found in ledger,Bank,684,High,30+ days
+BANK00446,2024-03-16,648.28,PAY686946,No match found in ledger,Bank,684,High,30+ days
+BANK00090,2024-03-22,100.0,CHK480928,No match found in ledger,Bank,678,High,30+ days
+BANK00088,2024-03-25,267.03,REF254776,No match found in ledger,Bank,675,High,30+ days
+BANK00309,2024-03-26,1445.85,TRF253523,No match found in ledger,Bank,674,High,30+ days
+BANK00085,2024-03-27,1115.31,TRF863136,No match found in ledger,Bank,673,High,30+ days
+BANK00107,2024-03-28,302.68,TRF826414,No match found in ledger,Bank,672,High,30+ days
+BANK00175,2024-03-29,100.0,REF815650,No match found in ledger,Bank,671,High,30+ days
+BANK00253,2024-03-29,595.15,PAY546874,No match found in ledger,Bank,671,High,30+ days
+BANK00049,2024-03-29,482.64,SAL622591,No match found in ledger,Bank,671,High,30+ days
+BANK00360,2024-03-30,1477.79,TRF050768,No match found in ledger,Bank,670,High,30+ days
+BANK00215,2024-03-30,929.39,SAL762013,No match found in ledger,Bank,670,High,30+ days
+BANK00460,2024-03-30,458.82,INV077328,No match found in ledger,Bank,670,High,30+ days
+LEDG00388,2024-01-02,484.09,,No match found in bank statement,Ledger,758,High,30+ days
+LEDG00485,2024-01-03,569.95,CHK459120,No match found in bank statement,Ledger,757,High,30+ days
+LEDG00497,2024-01-03,943.22,REF590192,No match found in bank statement,Ledger,757,High,30+ days
+LEDG00473,2024-01-04,918.81,CHK224501,No match found in bank statement,Ledger,756,High,30+ days
+LEDG00107,2024-01-05,843.35,,No match found in bank statement,Ledger,755,High,30+ days
+LEDG00493,2024-01-06,1008.35,SAL705742,No match found in bank statement,Ledger,754,High,30+ days
+LEDG00466,2024-01-06,405.4,REF550209,No match found in bank statement,Ledger,754,High,30+ days
+LEDG00230,2024-01-08,1172.79,,No match found in bank statement,Ledger,752,High,30+ days
+LEDG00391,2024-01-10,527.86,,No match found in bank statement,Ledger,750,High,30+ days
+LEDG00496,2024-01-10,193.87,INV093762,No match found in bank statement,Ledger,750,High,30+ days
+LEDG00464,2024-01-13,571.03,INV224894,No match found in bank statement,Ledger,747,High,30+ days
+LEDG00471,2024-01-14,1423.27,REF673228,No match found in bank statement,Ledger,746,High,30+ days
+LEDG00366,2024-01-15,1678.58,,No match found in bank statement,Ledger,745,High,30+ days
+LEDG00457,2024-01-16,784.91,INV345748,No match found in bank statement,Ledger,744,High,30+ days
+LEDG00130,2024-01-17,1387.63,,No match found in bank statement,Ledger,743,High,30+ days
+LEDG00456,2024-01-18,386.44,REF194224,No match found in bank statement,Ledger,742,High,30+ days
+LEDG00316,2024-01-18,1601.71,,No match found in bank statement,Ledger,742,High,30+ days
+LEDG00487,2024-01-22,718.77,REF003658,No match found in bank statement,Ledger,738,High,30+ days
+LEDG00163,2024-01-23,1501.81,,No match found in bank statement,Ledger,737,High,30+ days
+LEDG00476,2024-01-25,889.02,REF173970,No match found in bank statement,Ledger,735,High,30+ days
+LEDG00484,2024-01-28,1403.41,PAY112400,No match found in bank statement,Ledger,732,High,30+ days
+LEDG00495,2024-02-01,1162.59,CHK304027,No match found in bank statement,Ledger,728,High,30+ days
+LEDG00478,2024-02-01,1161.05,SAL363456,No match found in bank statement,Ledger,728,High,30+ days
+LEDG00481,2024-02-07,1143.03,CHK681167,No match found in bank statement,Ledger,722,High,30+ days
+LEDG00451,2024-02-07,1096.9,TRF257997,No match found in bank statement,Ledger,722,High,30+ days
+LEDG00488,2024-02-07,1014.86,INV218377,No match found in bank statement,Ledger,722,High,30+ days
+LEDG00459,2024-02-08,887.51,SAL210634,No match found in bank statement,Ledger,721,High,30+ days
+LEDG00474,2024-02-08,1387.54,PAY500896,No match found in bank statement,Ledger,721,High,30+ days
+LEDG00206,2024-02-08,1150.57,,No match found in bank statement,Ledger,721,High,30+ days
+LEDG00362,2024-02-10,1646.95,,No match found in bank statement,Ledger,719,High,30+ days
+LEDG00205,2024-02-14,418.1,,No match found in bank statement,Ledger,715,High,30+ days
+LEDG00455,2024-02-17,47.6,REF936002,No match found in bank statement,Ledger,712,High,30+ days
+LEDG00063,2024-02-17,50.0,,No match found in bank statement,Ledger,712,High,30+ days
+LEDG00274,2024-02-17,500.0,,No match found in bank statement,Ledger,712,High,30+ days
+LEDG00500,2024-02-18,1393.29,CHK472791,No match found in bank statement,Ledger,711,High,30+ days
+LEDG00355,2024-02-20,743.37,,No match found in bank statement,Ledger,709,High,30+ days
+LEDG00306,2024-02-21,341.79,,No match found in bank statement,Ledger,708,High,30+ days
+LEDG00482,2024-02-22,774.25,SAL712871,No match found in bank statement,Ledger,707,High,30+ days
+LEDG00472,2024-02-23,1417.55,TRF770810,No match found in bank statement,Ledger,706,High,30+ days
+LEDG00458,2024-02-24,787.71,CHK533983,No match found in bank statement,Ledger,705,High,30+ days
+LEDG00492,2024-02-26,347.84,CHK673104,No match found in bank statement,Ledger,703,High,30+ days
+LEDG00479,2024-02-28,1056.71,INV912091,No match found in bank statement,Ledger,701,High,30+ days
+LEDG00498,2024-02-28,424.92,REF236949,No match found in bank statement,Ledger,701,High,30+ days
+LEDG00461,2024-02-28,938.98,PAY597924,No match found in bank statement,Ledger,701,High,30+ days
+LEDG00453,2024-02-29,513.1,CHK230493,No match found in bank statement,Ledger,700,High,30+ days
+LEDG00469,2024-02-29,447.98,INV282628,No match found in bank statement,Ledger,700,High,30+ days
+LEDG00045,2024-03-02,452.93,,No match found in bank statement,Ledger,698,High,30+ days
+LEDG00491,2024-03-02,973.43,SAL998768,No match found in bank statement,Ledger,698,High,30+ days
+LEDG00463,2024-03-02,89.74,TRF278227,No match found in bank statement,Ledger,698,High,30+ days
+LEDG00480,2024-03-03,926.73,SAL405577,No match found in bank statement,Ledger,697,High,30+ days
+LEDG00483,2024-03-07,1059.08,SAL359289,No match found in bank statement,Ledger,693,High,30+ days
+LEDG00460,2024-03-08,1130.0,CHK665849,No match found in bank statement,Ledger,692,High,30+ days
+LEDG00454,2024-03-11,1482.9,REF330180,No match found in bank statement,Ledger,689,High,30+ days
+LEDG00490,2024-03-12,77.72,CHK523190,No match found in bank statement,Ledger,688,High,30+ days
+LEDG00082,2024-03-12,1000.0,,No match found in bank statement,Ledger,688,High,30+ days
+LEDG00489,2024-03-12,1146.71,INV785167,No match found in bank statement,Ledger,688,High,30+ days
+LEDG00475,2024-03-12,1180.86,REF336321,No match found in bank statement,Ledger,688,High,30+ days
+LEDG00448,2024-03-15,51.0,,No match found in bank statement,Ledger,685,High,30+ days
+LEDG00499,2024-03-16,1280.94,INV065818,No match found in bank statement,Ledger,684,High,30+ days
+LEDG00477,2024-03-17,19.59,SAL910497,No match found in bank statement,Ledger,683,High,30+ days
+LEDG00468,2024-03-17,307.26,INV307358,No match found in bank statement,Ledger,683,High,30+ days
+LEDG00494,2024-03-18,707.81,SAL731938,No match found in bank statement,Ledger,682,High,30+ days
+LEDG00302,2024-03-18,1000.0,,No match found in bank statement,Ledger,682,High,30+ days
+LEDG00486,2024-03-20,1065.1,REF882494,No match found in bank statement,Ledger,680,High,30+ days
+LEDG00465,2024-03-21,355.76,REF944956,No match found in bank statement,Ledger,679,High,30+ days
+LEDG00232,2024-03-21,99.99,,No match found in bank statement,Ledger,679,High,30+ days
+LEDG00467,2024-03-23,835.96,SAL149196,No match found in bank statement,Ledger,677,High,30+ days
+LEDG00452,2024-03-23,864.1,SAL640182,No match found in bank statement,Ledger,677,High,30+ days
+LEDG00014,2024-03-25,1115.31,,No match found in bank statement,Ledger,675,High,30+ days
+LEDG00462,2024-03-29,904.42,TRF469287,No match found in bank statement,Ledger,671,High,30+ days
+LEDG00470,2024-03-30,363.26,INV745880,No match found in bank statement,Ledger,670,High,30+ days

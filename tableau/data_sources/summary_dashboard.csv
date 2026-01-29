@@ -1,0 +1,9 @@
+metric,value,status
+Overall Match Rate,86.4%,Needs Attention
+Total Transactions Processed,"1,000",On Track
+Total Value Reconciled,"$399,291.10",Good
+High Priority Exceptions,139,Watch
+Average Days to Match,0.4,Good
+Exact Match Percentage,59.0%,Needs Review
+Daily Match Rate Target,95%,Target
+Current Streak (Days >95%),41,Good
